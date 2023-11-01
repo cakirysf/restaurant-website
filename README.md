@@ -6,4 +6,9 @@
 
 <h1>Proje Görüntüsü | Responsive Design </h1>
 
+![](normal.gif)
+
+<p>Responsive</p>
+
 ![](responsive.gif)
+
